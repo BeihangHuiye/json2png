@@ -10,8 +10,7 @@ Only supports JSON files exported by Labelme tool! This software is only deep le
 
 # 使用介绍
 
-<iframe src="//player.bilibili.com/player.html?aid=871341859&bvid=BV1RV4y1t7R4&cid=1207883562&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+[一键批量JSON标注转PNG图片工具 - Bilibili介绍视频](https://www.bilibili.com/video/BV1RV4y1t7R4/)
 
 
 

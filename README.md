@@ -1,7 +1,10 @@
 # json2png
 
 【付费作品】一键批量JSON标注转PNG图片工具V1.2.1
-![软件样式](htps://github.com/BeihangHuiye/json2png/assets/148823447/91702928-e7a5-431c-a8ed-48eb23eb94ed)
+
+![image](https://github.com/BeihangHuiye/json2png/assets/148823447/5934c1f6-1b39-439f-a6cf-bea7777b22ba)
+
+
 
 
 Only supports JSON files exported by Labelme tool! This software is only deep learning image segmentation auxiliary software, not general-purpose software!

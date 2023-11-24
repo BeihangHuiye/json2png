@@ -24,6 +24,8 @@ Only supports JSON files exported by Labelme tool! This software is only deep le
 
 推荐去软件发布页支持一下小陶！推荐关掉梯子访问！！
 
+（售价十元，其实倒不是为了赚多少钱，只是继续维护下去的动力！）
+
 如果实在懒得去，也可以在此购买：
 
 
